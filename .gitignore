@@ -1,0 +1,28 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# VS Code / IDEs
+.vscode/
+.idea/
+
+# Environment files
+.env
+.venv/
+*.env
+*.sqlite3
+
+# Excel temporary files
+~$*
